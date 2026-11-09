@@ -1,0 +1,36 @@
+{
+ "base": "https://stocks.now",
+ "taken_at": "2026-11-09T05:43:46.324Z",
+ "rows": {
+  "1": {
+   "status": "cancelled",
+   "hash": "28e81decddfcca099edcc2753f75fca0ff111f5ef329168b31b955402d8a6711"
+  },
+  "2": {
+   "status": "cancelled",
+   "hash": "58bc84fb0c5dc5a5eefebe434cadc768eb4e88c7169ae56de090f1424b9d7f60"
+  },
+  "3": {
+   "status": "filled",
+   "hash": "9eb35325c5e2a8dbb5afac602433aa4f033d35e65b4a710247cfb160488b5272"
+  },
+  "4": {
+   "status": "filled",
+   "hash": "f2b497f224d02bd3cc6bbc6d893b10039f90f547a553a1b0305b6326cbc3b059"
+  },
+  "5": {
+   "status": "filled",
+   "hash": "a0e0c7f0ddba025b0d0ca4705ed5e312b3248ac4059fafec6837a08a133ac357"
+  },
+  "6": {
+   "status": "filled",
+   "hash": "2e4ca6b3cc5d272f0e69f37b5d80da9c50751bba79c20aa198f6f3908040a80a"
+  },
+  "7": {
+   "status": "filled",
+   "hash": "7f98f6b0e5f132c928f15caba6a1a79a53d36f2e497753e80c870a7ffa1cf471"
+  }
+ },
+ "head": "53f521e148beed5c71280aa2da55d6b22864c133ff9814b5a1939b3c3fb64986",
+ "count": 7
+}
