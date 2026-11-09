@@ -1,0 +1,84 @@
+{
+ "base": "https://stocks.now",
+ "taken_at": "2026-11-09T05:56:58.817Z",
+ "rows": {
+  "1": {
+   "status": "cancelled",
+   "hash": "28e81decddfcca099edcc2753f75fca0ff111f5ef329168b31b955402d8a6711"
+  },
+  "2": {
+   "status": "cancelled",
+   "hash": "58bc84fb0c5dc5a5eefebe434cadc768eb4e88c7169ae56de090f1424b9d7f60"
+  },
+  "3": {
+   "status": "filled",
+   "hash": "9eb35325c5e2a8dbb5afac602433aa4f033d35e65b4a710247cfb160488b5272"
+  },
+  "4": {
+   "status": "filled",
+   "hash": "f2b497f224d02bd3cc6bbc6d893b10039f90f547a553a1b0305b6326cbc3b059"
+  },
+  "5": {
+   "status": "filled",
+   "hash": "a0e0c7f0ddba025b0d0ca4705ed5e312b3248ac4059fafec6837a08a133ac357"
+  },
+  "6": {
+   "status": "filled",
+   "hash": "2e4ca6b3cc5d272f0e69f37b5d80da9c50751bba79c20aa198f6f3908040a80a"
+  },
+  "7": {
+   "status": "filled",
+   "hash": "7f98f6b0e5f132c928f15caba6a1a79a53d36f2e497753e80c870a7ffa1cf471"
+  },
+  "8": {
+   "status": "filled",
+   "hash": "70b7e4a32a18eba2e48c905a7a4b4e2f40c7d4d9bcd421e2d92c946938e21af2"
+  },
+  "9": {
+   "status": "filled",
+   "hash": "c0d672213a7ee0183c6b69edd0f7ac50f90997c646f13822f2ab54812f48b1b3"
+  },
+  "10": {
+   "status": "filled",
+   "hash": "ec6512061cfc65f1888d2211e63141438b9225d8dd221b00c17d89a8f2533802"
+  },
+  "11": {
+   "status": "filled",
+   "hash": "5f3719d06f9052958f7ffc8ce866cbebd9a609351342018e8593ee4f82ce9904"
+  },
+  "12": {
+   "status": "filled",
+   "hash": "5fae56cbe31d2fa603fd7fdd4ec016a232bb31998b0448a4887e8a78e2b6a7c4"
+  },
+  "13": {
+   "status": "filled",
+   "hash": "ebaf5d0edd9255b430797cc2c3b11170d885db83f014b4166db085f353043394"
+  },
+  "14": {
+   "status": "pending",
+   "hash": "8a7fe5b07edf89592f7279807c3346feaef58ed0401bcc6beeb2e2a9a8263e9e"
+  },
+  "15": {
+   "status": "pending",
+   "hash": "d69e4e331fe6b3ebf8e977a3bbeaeeedefb39b11eda6c0e6dfb37808e3bda6c7"
+  },
+  "16": {
+   "status": "pending",
+   "hash": "fa7d1f3c86e53a975c28a01e0fbe0371775e3b6b6f53524c3dc93f037e825c9b"
+  },
+  "17": {
+   "status": "pending",
+   "hash": "815f89f4537e0d046fc05dec81a07c120e9727fcbd1f3472e4631c43f353b034"
+  },
+  "18": {
+   "status": "pending",
+   "hash": "35386d929d3283bedb18368868762e6056d82b0a73203616318ef687e30d0f3f"
+  },
+  "19": {
+   "status": "pending",
+   "hash": "db9d9ef76d86586b781421a5d4c86e6f35a2cdd5c901599bc5b39143b620c660"
+  }
+ },
+ "head": "88313bef20cfbc3d44fdea9c3b0b6ad4ed00646b0525d3d6d925bff789578b4e",
+ "count": 19
+}
