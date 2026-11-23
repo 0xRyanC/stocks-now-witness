@@ -1,0 +1,1129 @@
+stocks.now witness  base=https://stocks.now  orders=604  filled=599  head=6ac07107ef26d742bfdeab60d2dc82c783a16b05bf0a1754d0f26c413f0f6e45
+note W4 order 6: instant pool fill, price time -0.256 s vs order
+note W4 order 7: instant pool fill, price time -0.536 s vs order
+note W4 order 8: instant pool fill, price time -0.640 s vs order
+note W4 order 9: instant pool fill, price time +0.025 s vs order
+note W4 order 10: instant pool fill, price time -0.193 s vs order
+note W4 order 11: instant pool fill, price time -0.481 s vs order
+note W4 order 12: instant pool fill, price time -0.861 s vs order
+note W4 order 13: instant pool fill, price time -0.486 s vs order
+note W4 order 20: instant pool fill, price time -0.117 s vs order
+note W4 order 21: instant pool fill, price time +0.076 s vs order
+note W4 order 22: instant pool fill, price time +0.304 s vs order
+note W4 order 23: instant pool fill, price time +0.449 s vs order
+note W4 order 24: instant pool fill, price time -0.914 s vs order
+note W4 order 26: instant pool fill, price time -0.533 s vs order
+note W4 order 28: instant pool fill, price time +0.021 s vs order
+note W4 order 29: instant pool fill, price time -0.371 s vs order
+note W4 order 30: instant pool fill, price time +0.232 s vs order
+note W4 order 31: instant pool fill, price time -0.287 s vs order
+note W4 order 32: instant pool fill, price time -0.677 s vs order
+note W4 order 33: instant pool fill, price time -0.548 s vs order
+note W4 order 34: instant pool fill, price time -0.318 s vs order
+note W4 order 35: instant pool fill, price time -0.004 s vs order
+note W4 order 37: instant pool fill, price time +0.216 s vs order
+note W4 order 38: instant pool fill, price time -0.498 s vs order
+note W4 order 40: instant pool fill, price time +0.189 s vs order
+note W4 order 41: instant pool fill, price time -0.494 s vs order
+note W4 order 42: instant pool fill, price time -0.127 s vs order
+note W4 order 43: instant pool fill, price time +0.147 s vs order
+note W4 order 44: instant pool fill, price time -0.586 s vs order
+note W4 order 45: instant pool fill, price time -0.334 s vs order
+note W4 order 46: instant exchange fill, price time -8.971 s vs order
+note W4 order 47: instant pool fill, price time +0.114 s vs order
+note W4 order 49: instant pool fill, price time -0.478 s vs order
+note W4 order 50: instant pool fill, price time -0.142 s vs order
+note W4 order 51: instant pool fill, price time +0.107 s vs order
+note W4 order 52: instant pool fill, price time -0.564 s vs order
+note W4 order 53: instant pool fill, price time -0.269 s vs order
+note W4 order 54: instant pool fill, price time +0.080 s vs order
+note W4 order 55: instant pool fill, price time -0.699 s vs order
+note W4 order 56: instant exchange fill, price time -6.457 s vs order
+note W4 order 57: instant pool fill, price time -0.442 s vs order
+note W4 order 58: instant pool fill, price time +0.178 s vs order
+note W4 order 59: instant pool fill, price time -0.560 s vs order
+note W4 order 60: instant pool fill, price time -0.248 s vs order
+note W4 order 61: instant pool fill, price time -0.268 s vs order
+note W4 order 62: instant pool fill, price time -0.453 s vs order
+note W4 order 63: instant pool fill, price time -0.532 s vs order
+note W4 order 65: instant pool fill, price time -0.911 s vs order
+note W4 order 66: instant pool fill, price time -0.713 s vs order
+note W4 order 67: instant pool fill, price time +0.165 s vs order
+note W4 order 68: instant pool fill, price time -0.517 s vs order
+note W4 order 69: instant pool fill, price time -0.523 s vs order
+note W4 order 70: instant pool fill, price time -0.333 s vs order
+note W4 order 71: instant pool fill, price time -0.482 s vs order
+note W4 order 72: instant pool fill, price time -0.354 s vs order
+note W4 order 73: instant pool fill, price time -0.056 s vs order
+note W4 order 74: instant pool fill, price time +0.000 s vs order
+note W4 order 75: instant pool fill, price time +0.095 s vs order
+note W4 order 76: instant pool fill, price time -0.149 s vs order
+note W4 order 78: instant pool fill, price time -0.424 s vs order
+note W4 order 79: instant pool fill, price time -0.497 s vs order
+note W4 order 80: instant pool fill, price time -0.304 s vs order
+note W4 order 81: instant pool fill, price time +0.150 s vs order
+note W4 order 82: instant pool fill, price time -0.243 s vs order
+note W4 order 83: instant pool fill, price time +0.185 s vs order
+note W4 order 84: instant pool fill, price time -0.772 s vs order
+note W4 order 85: instant pool fill, price time -0.445 s vs order
+note W4 order 86: instant pool fill, price time -0.154 s vs order
+note W4 order 87: instant pool fill, price time -0.729 s vs order
+note W4 order 88: instant pool fill, price time -0.505 s vs order
+note W4 order 90: instant pool fill, price time -0.377 s vs order
+note W4 order 91: instant pool fill, price time +0.004 s vs order
+note W4 order 92: instant pool fill, price time -0.199 s vs order
+note W4 order 93: instant pool fill, price time +0.141 s vs order
+note W4 order 94: instant pool fill, price time -0.119 s vs order
+note W4 order 95: instant pool fill, price time +2.644 s vs order
+note W4 order 96: instant pool fill, price time -0.218 s vs order
+note W4 order 97: instant pool fill, price time -0.749 s vs order
+note W4 order 98: instant pool fill, price time -0.798 s vs order
+note W4 order 99: instant pool fill, price time -0.538 s vs order
+note W4 order 100: instant pool fill, price time -0.122 s vs order
+note W4 order 101: instant pool fill, price time -0.766 s vs order
+note W4 order 102: instant pool fill, price time -0.240 s vs order
+note W4 order 103: instant pool fill, price time -0.039 s vs order
+note W4 order 104: instant pool fill, price time -0.687 s vs order
+note W4 order 105: instant pool fill, price time +0.093 s vs order
+note W4 order 106: instant pool fill, price time -0.454 s vs order
+note W4 order 107: instant pool fill, price time +0.001 s vs order
+note W4 order 108: instant pool fill, price time -0.629 s vs order
+note W4 order 109: instant pool fill, price time +0.141 s vs order
+note W4 order 110: instant pool fill, price time -0.367 s vs order
+note W4 order 111: instant pool fill, price time -0.027 s vs order
+note W4 order 113: instant pool fill, price time -0.207 s vs order
+note W4 order 114: instant pool fill, price time -0.718 s vs order
+note W4 order 115: instant pool fill, price time +0.101 s vs order
+note W4 order 116: instant pool fill, price time -0.808 s vs order
+note W4 order 117: instant pool fill, price time -0.649 s vs order
+note W4 order 118: instant pool fill, price time -0.278 s vs order
+note W4 order 120: instant pool fill, price time -0.001 s vs order
+note W4 order 121: instant pool fill, price time -0.060 s vs order
+note W4 order 123: instant pool fill, price time -0.320 s vs order
+note W4 order 124: instant pool fill, price time -0.669 s vs order
+note W4 order 125: instant pool fill, price time -0.560 s vs order
+note W4 order 126: instant exchange fill, price time -2.521 s vs order
+note W4 order 127: instant pool fill, price time -1.241 s vs order
+note W4 order 128: instant pool fill, price time +0.125 s vs order
+note W4 order 129: instant pool fill, price time -0.510 s vs order
+note W4 order 130: instant pool fill, price time -0.148 s vs order
+note W4 order 131: instant pool fill, price time -0.873 s vs order
+note W4 order 132: instant pool fill, price time -0.473 s vs order
+note W4 order 133: instant pool fill, price time -0.259 s vs order
+note W4 order 134: instant pool fill, price time -0.051 s vs order
+note W4 order 135: instant pool fill, price time +0.166 s vs order
+note W4 order 136: instant pool fill, price time -0.351 s vs order
+note W4 order 137: instant pool fill, price time -0.465 s vs order
+note W4 order 138: instant pool fill, price time -0.510 s vs order
+note W4 order 139: instant pool fill, price time -0.426 s vs order
+note W4 order 140: instant pool fill, price time -0.798 s vs order
+note W4 order 141: instant pool fill, price time -0.527 s vs order
+note W4 order 142: instant pool fill, price time +2.481 s vs order
+note W4 order 143: instant pool fill, price time -0.311 s vs order
+note W4 order 144: instant pool fill, price time -0.155 s vs order
+note W4 order 145: instant pool fill, price time +0.015 s vs order
+note W4 order 146: instant pool fill, price time -0.821 s vs order
+note W4 order 147: instant pool fill, price time -0.638 s vs order
+note W4 order 148: instant pool fill, price time -0.637 s vs order
+note W4 order 149: instant pool fill, price time +3.257 s vs order
+note W4 order 150: instant pool fill, price time -0.160 s vs order
+note W4 order 151: instant pool fill, price time -0.095 s vs order
+note W4 order 152: instant pool fill, price time -0.793 s vs order
+note W4 order 153: instant pool fill, price time +0.212 s vs order
+note W4 order 154: instant pool fill, price time +2.746 s vs order
+note W4 order 155: instant pool fill, price time +0.131 s vs order
+note W4 order 156: instant pool fill, price time -0.705 s vs order
+note W4 order 157: instant pool fill, price time -0.398 s vs order
+note W4 order 158: instant pool fill, price time -0.284 s vs order
+note W4 order 159: instant pool fill, price time -0.711 s vs order
+note W4 order 160: instant pool fill, price time -0.019 s vs order
+note W4 order 161: instant pool fill, price time -0.283 s vs order
+note W4 order 162: instant pool fill, price time -0.432 s vs order
+note W4 order 163: instant pool fill, price time +2.971 s vs order
+note W4 order 164: instant pool fill, price time -0.019 s vs order
+note W4 order 165: instant pool fill, price time +0.142 s vs order
+note W4 order 166: instant pool fill, price time +0.234 s vs order
+note W4 order 167: instant pool fill, price time -0.556 s vs order
+note W4 order 168: instant pool fill, price time -0.471 s vs order
+note W4 order 169: instant pool fill, price time -0.360 s vs order
+note W4 order 170: instant pool fill, price time -0.011 s vs order
+note W4 order 171: instant pool fill, price time -0.488 s vs order
+note W4 order 172: instant pool fill, price time -0.524 s vs order
+note W4 order 173: instant pool fill, price time +0.091 s vs order
+note W4 order 174: instant pool fill, price time +2.917 s vs order
+note W4 order 175: instant pool fill, price time -0.103 s vs order
+note W4 order 176: instant pool fill, price time +0.207 s vs order
+note W4 order 177: instant pool fill, price time +2.529 s vs order
+note W4 order 178: instant pool fill, price time -0.495 s vs order
+note W4 order 179: instant pool fill, price time -0.168 s vs order
+note W4 order 180: instant pool fill, price time +0.084 s vs order
+note W4 order 182: instant pool fill, price time -0.362 s vs order
+note W4 order 183: instant pool fill, price time -0.406 s vs order
+note W4 order 184: instant pool fill, price time -0.390 s vs order
+note W4 order 185: instant pool fill, price time -0.699 s vs order
+note W4 order 186: instant pool fill, price time -0.740 s vs order
+note W4 order 187: instant pool fill, price time +2.326 s vs order
+note W4 order 188: instant pool fill, price time +2.522 s vs order
+note W4 order 189: instant pool fill, price time +0.045 s vs order
+note W4 order 190: instant pool fill, price time -0.745 s vs order
+note W4 order 193: instant pool fill, price time -0.040 s vs order
+note W4 order 194: instant pool fill, price time +2.275 s vs order
+note W4 order 195: instant pool fill, price time -0.746 s vs order
+note W4 order 196: instant pool fill, price time -0.734 s vs order
+note W4 order 197: instant pool fill, price time -0.376 s vs order
+note W4 order 198: instant pool fill, price time -0.337 s vs order
+note W4 order 199: instant pool fill, price time +0.017 s vs order
+note W4 order 200: instant pool fill, price time -0.768 s vs order
+note W4 order 201: instant pool fill, price time -0.446 s vs order
+note W4 order 202: instant pool fill, price time -0.124 s vs order
+note W4 order 203: instant pool fill, price time -0.106 s vs order
+note W4 order 204: instant pool fill, price time -0.815 s vs order
+note W4 order 205: instant pool fill, price time -0.453 s vs order
+note W4 order 206: instant pool fill, price time -0.106 s vs order
+note W4 order 207: instant pool fill, price time -0.754 s vs order
+note W4 order 208: instant pool fill, price time -0.413 s vs order
+note W4 order 209: instant pool fill, price time -0.109 s vs order
+note W4 order 210: instant pool fill, price time +0.101 s vs order
+note W4 order 211: instant pool fill, price time -0.195 s vs order
+note W4 order 212: instant pool fill, price time +2.909 s vs order
+note W4 order 213: instant pool fill, price time +3.165 s vs order
+note W4 order 214: instant pool fill, price time -0.697 s vs order
+note W4 order 215: instant pool fill, price time -0.823 s vs order
+note W4 order 216: instant pool fill, price time -0.578 s vs order
+note W4 order 217: instant pool fill, price time -0.135 s vs order
+note W4 order 218: instant pool fill, price time +2.327 s vs order
+note W4 order 219: instant pool fill, price time +2.458 s vs order
+note W4 order 221: instant pool fill, price time -0.412 s vs order
+note W4 order 222: instant pool fill, price time -0.109 s vs order
+note W4 order 223: instant pool fill, price time +2.660 s vs order
+note W4 order 224: instant pool fill, price time -0.274 s vs order
+note W4 order 225: instant pool fill, price time -0.379 s vs order
+note W4 order 226: instant pool fill, price time -0.040 s vs order
+note W4 order 227: instant pool fill, price time -0.699 s vs order
+note W4 order 228: instant pool fill, price time +2.760 s vs order
+note W4 order 229: instant pool fill, price time -0.083 s vs order
+note W4 order 230: instant pool fill, price time -0.626 s vs order
+note W4 order 231: instant pool fill, price time -0.168 s vs order
+note W4 order 232: instant pool fill, price time -0.722 s vs order
+note W4 order 233: instant pool fill, price time -0.050 s vs order
+note W4 order 234: instant pool fill, price time -0.677 s vs order
+note W4 order 235: instant pool fill, price time -0.074 s vs order
+note W4 order 236: instant pool fill, price time -0.643 s vs order
+note W4 order 237: instant pool fill, price time -0.488 s vs order
+note W4 order 238: instant pool fill, price time -0.123 s vs order
+note W4 order 239: instant pool fill, price time +0.139 s vs order
+note W4 order 240: instant pool fill, price time -0.635 s vs order
+note W4 order 241: instant pool fill, price time -0.377 s vs order
+note W4 order 242: instant pool fill, price time -0.045 s vs order
+note W4 order 243: instant pool fill, price time +0.202 s vs order
+note W4 order 244: instant pool fill, price time -0.086 s vs order
+note W4 order 245: instant pool fill, price time -0.700 s vs order
+note W4 order 247: instant pool fill, price time -0.686 s vs order
+note W4 order 248: instant pool fill, price time -0.293 s vs order
+note W4 order 249: instant pool fill, price time +0.073 s vs order
+note W4 order 250: instant pool fill, price time -0.585 s vs order
+note W4 order 251: instant pool fill, price time -0.347 s vs order
+note W4 order 252: instant pool fill, price time -0.085 s vs order
+note W4 order 253: instant pool fill, price time -0.777 s vs order
+note W4 order 254: instant pool fill, price time -0.282 s vs order
+note W4 order 255: instant pool fill, price time +0.120 s vs order
+note W4 order 256: instant pool fill, price time +2.553 s vs order
+note W4 order 257: instant pool fill, price time -0.368 s vs order
+note W4 order 258: instant pool fill, price time -0.126 s vs order
+note W4 order 260: instant pool fill, price time +0.076 s vs order
+note W4 order 261: instant pool fill, price time +0.116 s vs order
+note W4 order 262: instant pool fill, price time +2.420 s vs order
+note W4 order 263: instant pool fill, price time -0.125 s vs order
+note W4 order 264: instant pool fill, price time +0.085 s vs order
+note W4 order 265: instant pool fill, price time +0.229 s vs order
+note W4 order 266: instant pool fill, price time -0.401 s vs order
+note W4 order 267: instant pool fill, price time -0.012 s vs order
+note W4 order 268: instant pool fill, price time -0.654 s vs order
+note W4 order 269: instant pool fill, price time +0.042 s vs order
+note W4 order 270: instant pool fill, price time -0.659 s vs order
+note W4 order 271: instant pool fill, price time +0.155 s vs order
+note W4 order 272: instant pool fill, price time -0.664 s vs order
+note W4 order 273: instant pool fill, price time +0.106 s vs order
+note W4 order 274: instant pool fill, price time +2.471 s vs order
+note W4 order 275: instant pool fill, price time -0.080 s vs order
+note W4 order 276: instant pool fill, price time -0.692 s vs order
+note W4 order 277: instant pool fill, price time -0.105 s vs order
+note W4 order 278: instant pool fill, price time -0.097 s vs order
+note W4 order 279: instant pool fill, price time -0.464 s vs order
+note W4 order 280: instant pool fill, price time -0.127 s vs order
+note W4 order 281: instant pool fill, price time +0.009 s vs order
+note W4 order 282: instant pool fill, price time -0.654 s vs order
+note W4 order 283: instant pool fill, price time -0.219 s vs order
+note W4 order 284: instant pool fill, price time +0.021 s vs order
+note W4 order 285: instant pool fill, price time -0.719 s vs order
+note W4 order 286: instant pool fill, price time -0.792 s vs order
+note W4 order 287: instant pool fill, price time -0.031 s vs order
+note W4 order 288: instant pool fill, price time +2.904 s vs order
+note W4 order 289: instant pool fill, price time -0.085 s vs order
+note W4 order 290: instant pool fill, price time +0.254 s vs order
+note W4 order 291: instant pool fill, price time +0.060 s vs order
+note W4 order 292: instant pool fill, price time +0.132 s vs order
+note W4 order 293: instant pool fill, price time -0.585 s vs order
+note W4 order 294: instant pool fill, price time -0.179 s vs order
+note W4 order 295: instant pool fill, price time +2.708 s vs order
+note W4 order 296: instant pool fill, price time +0.221 s vs order
+note W4 order 297: instant pool fill, price time -0.551 s vs order
+note W4 order 298: instant pool fill, price time -0.475 s vs order
+note W4 order 299: instant pool fill, price time -0.339 s vs order
+note W4 order 300: instant pool fill, price time -0.146 s vs order
+note W4 order 301: instant pool fill, price time -0.723 s vs order
+note W4 order 302: instant pool fill, price time +2.601 s vs order
+note W4 order 303: instant pool fill, price time +0.056 s vs order
+note W4 order 304: instant pool fill, price time +0.072 s vs order
+note W4 order 305: instant pool fill, price time +3.212 s vs order
+note W4 order 306: instant pool fill, price time +0.004 s vs order
+note W4 order 307: instant pool fill, price time +0.045 s vs order
+note W4 order 308: instant pool fill, price time -0.253 s vs order
+note W4 order 309: instant pool fill, price time -0.428 s vs order
+note W4 order 310: instant pool fill, price time -0.823 s vs order
+note W4 order 311: instant pool fill, price time +0.188 s vs order
+note W4 order 312: instant pool fill, price time -0.652 s vs order
+note W4 order 313: instant pool fill, price time -0.141 s vs order
+note W4 order 314: instant pool fill, price time -0.161 s vs order
+note W4 order 315: instant pool fill, price time -0.113 s vs order
+note W4 order 316: instant pool fill, price time -0.234 s vs order
+note W4 order 317: instant pool fill, price time -0.020 s vs order
+note W4 order 318: instant pool fill, price time -0.010 s vs order
+note W4 order 319: instant pool fill, price time +2.302 s vs order
+note W4 order 320: instant pool fill, price time +2.354 s vs order
+note W4 order 321: instant pool fill, price time -0.451 s vs order
+note W4 order 322: instant pool fill, price time +2.386 s vs order
+note W4 order 323: instant pool fill, price time -0.646 s vs order
+note W4 order 324: instant pool fill, price time -0.242 s vs order
+note W4 order 325: instant pool fill, price time -0.237 s vs order
+note W4 order 326: instant pool fill, price time -0.416 s vs order
+note W4 order 327: instant pool fill, price time -0.186 s vs order
+note W4 order 328: instant pool fill, price time +2.259 s vs order
+note W4 order 330: instant pool fill, price time -0.605 s vs order
+note W4 order 331: instant pool fill, price time -0.488 s vs order
+note W4 order 332: instant pool fill, price time -0.432 s vs order
+note W4 order 333: instant pool fill, price time +0.046 s vs order
+note W4 order 334: instant pool fill, price time -0.055 s vs order
+note W4 order 335: instant pool fill, price time +0.084 s vs order
+note W4 order 336: instant pool fill, price time -0.625 s vs order
+note W4 order 337: instant pool fill, price time -0.260 s vs order
+note W4 order 338: instant pool fill, price time -0.315 s vs order
+note W4 order 339: instant pool fill, price time -2.229 s vs order
+note W4 order 340: instant pool fill, price time -2.882 s vs order
+note W4 order 341: instant pool fill, price time -3.353 s vs order
+note W4 order 342: instant pool fill, price time -3.688 s vs order
+note W4 order 343: instant pool fill, price time -1.071 s vs order
+note W4 order 344: instant pool fill, price time -1.381 s vs order
+note W4 order 345: instant pool fill, price time -0.907 s vs order
+note W4 order 346: instant pool fill, price time +2.774 s vs order
+note W4 order 347: instant pool fill, price time -0.756 s vs order
+note W4 order 348: instant pool fill, price time -2.068 s vs order
+note W4 order 349: instant exchange fill, price time -8.389 s vs order
+note W4 order 350: instant pool fill, price time +0.155 s vs order
+note W4 order 351: instant pool fill, price time -0.743 s vs order
+note W4 order 352: instant pool fill, price time -0.620 s vs order
+note W4 order 353: instant pool fill, price time -0.511 s vs order
+note W4 order 354: instant pool fill, price time -0.537 s vs order
+note W4 order 355: instant pool fill, price time +0.059 s vs order
+note W4 order 356: instant pool fill, price time +0.228 s vs order
+note W4 order 357: instant pool fill, price time -0.636 s vs order
+note W4 order 358: instant pool fill, price time -0.486 s vs order
+note W4 order 359: instant pool fill, price time +0.249 s vs order
+note W4 order 360: instant pool fill, price time -0.701 s vs order
+note W4 order 361: instant pool fill, price time -0.332 s vs order
+note W4 order 362: instant pool fill, price time -0.214 s vs order
+note W4 order 363: instant pool fill, price time -0.619 s vs order
+note W4 order 364: instant pool fill, price time +0.437 s vs order
+note W4 order 365: instant pool fill, price time -0.607 s vs order
+note W4 order 366: instant pool fill, price time -0.280 s vs order
+note W4 order 367: instant pool fill, price time -0.093 s vs order
+note W4 order 368: instant exchange fill, price time -0.652 s vs order
+note W4 order 369: instant pool fill, price time +0.476 s vs order
+note W4 order 370: instant pool fill, price time -0.117 s vs order
+note W4 order 371: instant pool fill, price time -0.607 s vs order
+note W4 order 372: instant pool fill, price time -0.058 s vs order
+note W4 order 373: instant pool fill, price time -0.575 s vs order
+note W4 order 374: instant pool fill, price time +0.113 s vs order
+note W4 order 375: instant pool fill, price time -0.269 s vs order
+note W4 order 376: instant exchange fill, price time -1.673 s vs order
+note W4 order 377: instant pool fill, price time +0.010 s vs order
+note W4 order 378: instant pool fill, price time -0.540 s vs order
+note W4 order 379: instant pool fill, price time +3.132 s vs order
+note W4 order 380: instant exchange fill, price time -1.503 s vs order
+note W4 order 381: instant pool fill, price time -0.186 s vs order
+note W4 order 382: instant pool fill, price time -0.489 s vs order
+note W4 order 383: instant pool fill, price time +0.083 s vs order
+note W4 order 384: instant pool fill, price time -0.385 s vs order
+note W4 order 385: instant pool fill, price time -0.694 s vs order
+note W4 order 386: instant pool fill, price time +0.048 s vs order
+note W4 order 387: instant pool fill, price time +2.862 s vs order
+note W4 order 388: instant pool fill, price time -0.262 s vs order
+note W4 order 389: instant pool fill, price time -0.104 s vs order
+note W4 order 390: instant pool fill, price time +0.026 s vs order
+note W4 order 391: instant pool fill, price time +0.097 s vs order
+note W4 order 392: instant exchange fill, price time -2.673 s vs order
+note W4 order 393: instant pool fill, price time -0.360 s vs order
+note W4 order 394: instant pool fill, price time -0.077 s vs order
+note W4 order 395: instant pool fill, price time +0.064 s vs order
+note W4 order 396: instant pool fill, price time +0.147 s vs order
+note W4 order 397: instant pool fill, price time -0.049 s vs order
+note W4 order 398: instant exchange fill, price time -1.449 s vs order
+note W4 order 399: instant pool fill, price time +0.041 s vs order
+note W4 order 400: instant pool fill, price time -0.101 s vs order
+note W4 order 401: instant pool fill, price time +3.604 s vs order
+note W4 order 402: instant exchange fill, price time -1.284 s vs order
+note W4 order 403: instant pool fill, price time +0.100 s vs order
+note W4 order 404: instant pool fill, price time +0.056 s vs order
+note W4 order 405: instant pool fill, price time -0.360 s vs order
+note W4 order 406: instant exchange fill, price time -1.484 s vs order
+note W4 order 407: instant pool fill, price time +0.176 s vs order
+note W4 order 408: instant exchange fill, price time -2.276 s vs order
+note W4 order 409: instant pool fill, price time +3.318 s vs order
+note W4 order 411: instant exchange fill, price time -15.242 s vs order
+note W4 order 412: instant pool fill, price time -0.076 s vs order
+note W4 order 413: instant pool fill, price time +3.326 s vs order
+note W4 order 414: instant pool fill, price time -0.601 s vs order
+note W4 order 415: instant pool fill, price time -0.151 s vs order
+note W4 order 416: instant pool fill, price time -0.269 s vs order
+note W4 order 417: instant pool fill, price time -0.878 s vs order
+note W4 order 418: instant pool fill, price time -0.623 s vs order
+note W4 order 419: instant pool fill, price time +0.083 s vs order
+note W4 order 420: instant pool fill, price time -0.368 s vs order
+note W4 order 421: instant pool fill, price time -0.605 s vs order
+note W4 order 422: instant pool fill, price time +0.124 s vs order
+note W4 order 423: instant pool fill, price time -0.326 s vs order
+note W4 order 424: instant exchange fill, price time -0.561 s vs order
+note W4 order 425: instant exchange fill, price time -4.028 s vs order
+note W4 order 426: instant pool fill, price time -0.331 s vs order
+note W4 order 427: instant pool fill, price time -0.482 s vs order
+note W4 order 428: instant pool fill, price time -0.660 s vs order
+note W4 order 429: instant pool fill, price time +0.225 s vs order
+note W4 order 430: instant pool fill, price time +0.079 s vs order
+note W4 order 431: instant pool fill, price time -0.241 s vs order
+note W4 order 432: instant pool fill, price time +2.798 s vs order
+note W4 order 433: instant pool fill, price time +0.512 s vs order
+note W4 order 434: instant pool fill, price time +0.107 s vs order
+note W4 order 435: instant pool fill, price time -0.765 s vs order
+note W4 order 436: instant exchange fill, price time -6.582 s vs order
+note W4 order 437: instant exchange fill, price time -7.431 s vs order
+note W4 order 438: instant pool fill, price time -0.207 s vs order
+note W4 order 439: instant pool fill, price time -0.572 s vs order
+note W4 order 440: instant pool fill, price time -0.147 s vs order
+note W4 order 441: instant pool fill, price time -0.561 s vs order
+note W4 order 442: instant pool fill, price time -0.497 s vs order
+note W4 order 443: instant exchange fill, price time -2.917 s vs order
+note W4 order 444: instant pool fill, price time -0.157 s vs order
+note W4 order 445: instant pool fill, price time -0.597 s vs order
+note W4 order 447: instant pool fill, price time +0.011 s vs order
+note W4 order 450: instant pool fill, price time -0.067 s vs order
+note W4 order 451: instant pool fill, price time +3.013 s vs order
+note W4 order 453: instant pool fill, price time -0.628 s vs order
+note W4 order 454: instant pool fill, price time -0.164 s vs order
+note W4 order 455: instant pool fill, price time +0.039 s vs order
+note W4 order 456: instant pool fill, price time +3.149 s vs order
+note W4 order 457: instant pool fill, price time -0.658 s vs order
+note W4 order 458: instant pool fill, price time -0.699 s vs order
+note W4 order 459: instant pool fill, price time +0.125 s vs order
+note W4 order 460: instant pool fill, price time +0.282 s vs order
+note W4 order 461: instant pool fill, price time +0.211 s vs order
+note W4 order 462: instant pool fill, price time +3.112 s vs order
+note W4 order 463: instant pool fill, price time -0.671 s vs order
+note W4 order 464: instant pool fill, price time -0.434 s vs order
+note W4 order 465: instant pool fill, price time +3.282 s vs order
+note W4 order 466: instant pool fill, price time +0.031 s vs order
+note W4 order 467: instant pool fill, price time -0.686 s vs order
+note W4 order 468: instant pool fill, price time -0.491 s vs order
+note W4 order 469: instant pool fill, price time -0.361 s vs order
+note W4 order 470: instant pool fill, price time -0.041 s vs order
+note W4 order 471: instant pool fill, price time -0.590 s vs order
+note W4 order 472: instant pool fill, price time -0.020 s vs order
+note W4 order 473: instant pool fill, price time -0.220 s vs order
+note W4 order 474: instant pool fill, price time -0.244 s vs order
+note W4 order 475: instant pool fill, price time -0.630 s vs order
+note W4 order 476: instant pool fill, price time +2.665 s vs order
+note W4 order 477: instant pool fill, price time +0.345 s vs order
+note W4 order 478: instant pool fill, price time +0.227 s vs order
+note W4 order 479: instant pool fill, price time +0.067 s vs order
+note W4 order 480: instant pool fill, price time -0.392 s vs order
+note W4 order 481: instant pool fill, price time +0.185 s vs order
+note W4 order 482: instant pool fill, price time +3.088 s vs order
+note W4 order 483: instant pool fill, price time -0.477 s vs order
+note W4 order 484: instant pool fill, price time +0.179 s vs order
+note W4 order 485: instant pool fill, price time -0.697 s vs order
+note W4 order 486: instant exchange fill, price time -4.424 s vs order
+note W4 order 487: instant pool fill, price time -0.218 s vs order
+note W4 order 488: instant pool fill, price time +3.028 s vs order
+note W4 order 490: instant pool fill, price time -0.055 s vs order
+note W4 order 491: instant pool fill, price time +0.144 s vs order
+note W4 order 492: instant pool fill, price time +0.296 s vs order
+note W4 order 493: instant pool fill, price time -0.402 s vs order
+note W4 order 494: instant pool fill, price time -0.574 s vs order
+note W4 order 495: instant pool fill, price time -0.327 s vs order
+note W4 order 496: instant pool fill, price time +3.105 s vs order
+note W4 order 497: instant pool fill, price time -0.420 s vs order
+note W4 order 498: instant pool fill, price time +2.197 s vs order
+note W4 order 499: instant pool fill, price time -0.358 s vs order
+note W4 order 500: instant pool fill, price time -0.560 s vs order
+note W4 order 501: instant pool fill, price time -0.355 s vs order
+note W4 order 502: instant pool fill, price time -0.081 s vs order
+note W4 order 503: instant pool fill, price time +2.363 s vs order
+note W4 order 504: instant exchange fill, price time -1.269 s vs order
+note W4 order 505: instant pool fill, price time +0.003 s vs order
+note W4 order 506: instant pool fill, price time +0.178 s vs order
+note W4 order 507: instant pool fill, price time +2.489 s vs order
+note W4 order 508: instant pool fill, price time -0.262 s vs order
+note W4 order 509: instant pool fill, price time +0.190 s vs order
+note W4 order 510: instant exchange fill, price time -3.278 s vs order
+note W4 order 511: instant pool fill, price time -0.101 s vs order
+note W4 order 512: instant pool fill, price time -0.047 s vs order
+note W4 order 513: instant pool fill, price time +0.110 s vs order
+note W4 order 514: instant pool fill, price time +0.043 s vs order
+note W4 order 515: instant pool fill, price time -0.685 s vs order
+note W4 order 516: instant pool fill, price time -0.551 s vs order
+note W4 order 517: instant pool fill, price time -0.298 s vs order
+note W4 order 518: instant pool fill, price time -0.911 s vs order
+note W4 order 519: instant pool fill, price time -0.014 s vs order
+note W4 order 520: instant exchange fill, price time -1.769 s vs order
+note W4 order 521: instant pool fill, price time -0.359 s vs order
+note W4 order 522: instant pool fill, price time -0.131 s vs order
+note W4 order 523: instant pool fill, price time -0.025 s vs order
+note W4 order 524: instant pool fill, price time -0.457 s vs order
+note W4 order 525: instant pool fill, price time -0.393 s vs order
+note W4 order 526: instant pool fill, price time +0.035 s vs order
+note W4 order 527: instant pool fill, price time +2.971 s vs order
+note W4 order 528: instant pool fill, price time +3.222 s vs order
+note W4 order 530: instant pool fill, price time -0.130 s vs order
+note W4 order 531: instant pool fill, price time -0.204 s vs order
+note W4 order 532: instant pool fill, price time +0.119 s vs order
+note W4 order 533: instant pool fill, price time -0.517 s vs order
+note W4 order 534: instant pool fill, price time +0.283 s vs order
+note W4 order 536: instant pool fill, price time +0.144 s vs order
+note W4 order 537: instant pool fill, price time -0.455 s vs order
+note W4 order 538: instant pool fill, price time -0.071 s vs order
+note W4 order 539: instant pool fill, price time -0.661 s vs order
+note W4 order 540: instant pool fill, price time -0.518 s vs order
+note W4 order 541: instant exchange fill, price time -1.045 s vs order
+note W4 order 542: instant pool fill, price time +0.109 s vs order
+note W4 order 543: instant pool fill, price time +0.144 s vs order
+note W4 order 544: instant exchange fill, price time -5.613 s vs order
+note W4 order 545: instant pool fill, price time -0.450 s vs order
+note W4 order 546: instant pool fill, price time +2.400 s vs order
+note W4 order 547: instant exchange fill, price time -1.556 s vs order
+note W4 order 548: instant pool fill, price time +0.568 s vs order
+note W4 order 549: instant pool fill, price time -0.161 s vs order
+note W4 order 550: instant pool fill, price time -0.014 s vs order
+note W4 order 551: instant exchange fill, price time -0.805 s vs order
+note W4 order 552: instant pool fill, price time -0.085 s vs order
+note W4 order 553: instant pool fill, price time -0.044 s vs order
+note W4 order 554: instant pool fill, price time +0.222 s vs order
+note W4 order 555: instant pool fill, price time +0.200 s vs order
+note W4 order 556: instant pool fill, price time +0.054 s vs order
+note W4 order 557: instant exchange fill, price time -1.061 s vs order
+note W4 order 558: instant pool fill, price time +0.368 s vs order
+note W4 order 559: instant pool fill, price time -0.527 s vs order
+note W4 order 560: instant pool fill, price time +0.136 s vs order
+note W4 order 561: instant exchange fill, price time -0.679 s vs order
+note W4 order 562: instant exchange fill, price time -1.420 s vs order
+note W4 order 563: instant pool fill, price time -0.270 s vs order
+note W4 order 564: instant pool fill, price time -0.043 s vs order
+note W4 order 565: instant pool fill, price time +0.194 s vs order
+note W4 order 566: instant pool fill, price time -0.795 s vs order
+note W4 order 567: instant pool fill, price time -0.118 s vs order
+note W4 order 568: instant pool fill, price time +0.192 s vs order
+note W4 order 569: instant pool fill, price time +3.009 s vs order
+note W4 order 570: instant pool fill, price time -0.175 s vs order
+note W4 order 571: instant pool fill, price time -0.148 s vs order
+note W4 order 572: instant pool fill, price time +3.097 s vs order
+note W4 order 573: instant exchange fill, price time -1.774 s vs order
+note W4 order 574: instant pool fill, price time +0.043 s vs order
+note W4 order 575: instant pool fill, price time +0.168 s vs order
+note W4 order 576: instant pool fill, price time -0.221 s vs order
+note W4 order 577: instant pool fill, price time -0.617 s vs order
+note W4 order 579: instant pool fill, price time -0.145 s vs order
+note W4 order 580: instant pool fill, price time +0.215 s vs order
+note W4 order 581: instant pool fill, price time -0.562 s vs order
+note W4 order 583: instant pool fill, price time +0.130 s vs order
+note W4 order 585: instant pool fill, price time -0.723 s vs order
+note W4 order 586: instant pool fill, price time -0.454 s vs order
+note W4 order 587: instant pool fill, price time -0.017 s vs order
+note W4 order 589: instant pool fill, price time -0.290 s vs order
+note W4 order 590: instant pool fill, price time +0.199 s vs order
+note W4 order 591: instant pool fill, price time -0.521 s vs order
+note W4 order 592: instant pool fill, price time -0.306 s vs order
+note W4 order 594: instant pool fill, price time -0.048 s vs order
+note W4 order 595: instant pool fill, price time +2.968 s vs order
+note W4 order 596: instant pool fill, price time +0.050 s vs order
+note W4 order 597: instant pool fill, price time +0.024 s vs order
+note W4 order 598: instant pool fill, price time +0.125 s vs order
+note W4 order 599: instant pool fill, price time +0.086 s vs order
+note W4 order 600: instant pool fill, price time +0.033 s vs order
+note W4 order 601: instant pool fill, price time -0.051 s vs order
+note W4 order 602: instant pool fill, price time +0.221 s vs order
+note W4 order 603: instant pool fill, price time -0.097 s vs order
+note W4 order 604: instant pool fill, price time +0.281 s vs order
+note W5 order 3 (zz-fill-test) is filled but not on /api/trades
+note W5 order 4 (zz-fill-test) is filled but not on /api/trades
+note W5 order 5 (town-crier) is filled but not on /api/trades
+note W5 order 6 (town-crier) is filled but not on /api/trades
+note W5 order 7 (Jaybob) is filled but not on /api/trades
+note W5 order 8 (head-of-experiments) is filled but not on /api/trades
+note W5 order 9 (head-of-experiments) is filled but not on /api/trades
+note W5 order 10 (head-of-experiments) is filled but not on /api/trades
+note W5 order 11 (head-of-experiments) is filled but not on /api/trades
+note W5 order 12 (head-of-experiments) is filled but not on /api/trades
+note W5 order 13 (head-of-experiments) is filled but not on /api/trades
+note W5 order 14 (head-of-experiments) is filled but not on /api/trades
+note W5 order 15 (head-of-experiments) is filled but not on /api/trades
+note W5 order 16 (head-of-experiments) is filled but not on /api/trades
+note W5 order 17 (head-of-experiments) is filled but not on /api/trades
+note W5 order 18 (head-of-experiments) is filled but not on /api/trades
+note W5 order 19 (head-of-experiments) is filled but not on /api/trades
+note W5 order 20 (noble_new_511) is filled but not on /api/trades
+note W5 order 21 (noble_new_511) is filled but not on /api/trades
+note W5 order 22 (noble_new_511) is filled but not on /api/trades
+note W5 order 23 (noble_new_511) is filled but not on /api/trades
+note W5 order 24 (noble_new_511) is filled but not on /api/trades
+note W5 order 26 (town-crier) is filled but not on /api/trades
+note W5 order 27 (catchword) is filled but not on /api/trades
+note W5 order 28 (catchword) is filled but not on /api/trades
+note W5 order 29 (catchword) is filled but not on /api/trades
+note W5 order 30 (bridgework) is filled but not on /api/trades
+note W5 order 31 (catchword) is filled but not on /api/trades
+note W5 order 32 (cursor-grok) is filled but not on /api/trades
+note W5 order 33 (cursor-grok) is filled but not on /api/trades
+note W5 order 34 (cursor-grok) is filled but not on /api/trades
+note W5 order 35 (cursor-grok) is filled but not on /api/trades
+note W5 order 36 (cursor-grok) is filled but not on /api/trades
+note W5 order 37 (cursor-grok) is filled but not on /api/trades
+note W5 order 38 (cursor-grok) is filled but not on /api/trades
+note W5 order 39 (cursor-grok) is filled but not on /api/trades
+note W5 order 40 (errata) is filled but not on /api/trades
+note W5 order 41 (errata) is filled but not on /api/trades
+note W5 order 42 (errata) is filled but not on /api/trades
+note W5 order 43 (errata) is filled but not on /api/trades
+note W5 order 44 (errata) is filled but not on /api/trades
+note W5 order 45 (errata) is filled but not on /api/trades
+note W5 order 46 (errata) is filled but not on /api/trades
+note W5 order 47 (gazette) is filled but not on /api/trades
+note W5 order 48 (gazette) is filled but not on /api/trades
+note W5 order 49 (gazette) is filled but not on /api/trades
+note W5 order 50 (gazette) is filled but not on /api/trades
+note W5 order 51 (gazette) is filled but not on /api/trades
+note W5 order 52 (gazette) is filled but not on /api/trades
+note W5 order 53 (gazette) is filled but not on /api/trades
+note W5 order 54 (gazette) is filled but not on /api/trades
+note W5 order 55 (gazette) is filled but not on /api/trades
+note W5 order 56 (gazette) is filled but not on /api/trades
+note W5 order 57 (catchword) is filled but not on /api/trades
+note W5 order 58 (catchword) is filled but not on /api/trades
+note W5 order 59 (gazette) is filled but not on /api/trades
+note W5 order 60 (gazette) is filled but not on /api/trades
+note W5 order 61 (catchword) is filled but not on /api/trades
+note W5 order 62 (catchword) is filled but not on /api/trades
+note W5 order 63 (gazette) is filled but not on /api/trades
+note W5 order 64 (gazette) is filled but not on /api/trades
+note W5 order 65 (bellwether) is filled but not on /api/trades
+note W5 order 66 (catchword) is filled but not on /api/trades
+note W5 order 67 (gazette) is filled but not on /api/trades
+note W5 order 68 (gazette) is filled but not on /api/trades
+note W5 order 69 (bellwether) is filled but not on /api/trades
+note W5 order 70 (catchword) is filled but not on /api/trades
+note W5 order 71 (bellwether) is filled but not on /api/trades
+note W5 order 72 (gazette) is filled but not on /api/trades
+note W5 order 73 (gazette) is filled but not on /api/trades
+note W5 order 74 (catchword) is filled but not on /api/trades
+note W5 order 75 (bellwether) is filled but not on /api/trades
+note W5 order 76 (gazette) is filled but not on /api/trades
+note W5 order 77 (gazette) is filled but not on /api/trades
+note W5 order 78 (catchword) is filled but not on /api/trades
+note W5 order 79 (bellwether) is filled but not on /api/trades
+note W5 order 80 (gazette) is filled but not on /api/trades
+note W5 order 81 (gazette) is filled but not on /api/trades
+note W5 order 82 (catchword) is filled but not on /api/trades
+note W5 order 83 (bellwether) is filled but not on /api/trades
+note W5 order 84 (catchword) is filled but not on /api/trades
+note W5 order 85 (gazette) is filled but not on /api/trades
+note W5 order 86 (gazette) is filled but not on /api/trades
+note W5 order 87 (gazette) is filled but not on /api/trades
+note W5 order 88 (bellwether) is filled but not on /api/trades
+note W5 order 89 (catchword) is filled but not on /api/trades
+note W5 order 90 (gazette) is filled but not on /api/trades
+note W5 order 91 (gazette) is filled but not on /api/trades
+note W5 order 92 (bellwether) is filled but not on /api/trades
+note W5 order 93 (catchword) is filled but not on /api/trades
+note W5 order 94 (bellwether) is filled but not on /api/trades
+note W5 order 95 (gazette) is filled but not on /api/trades
+note W5 order 96 (gazette) is filled but not on /api/trades
+note W5 order 97 (catchword) is filled but not on /api/trades
+note W5 order 98 (bellwether) is filled but not on /api/trades
+note W5 order 99 (gazette) is filled but not on /api/trades
+note W5 order 100 (gazette) is filled but not on /api/trades
+note W5 order 101 (catchword) is filled but not on /api/trades
+note W5 order 102 (bellwether) is filled but not on /api/trades
+note W5 order 103 (gazette) is filled but not on /api/trades
+note W5 order 104 (gazette) is filled but not on /api/trades
+note W5 order 105 (catchword) is filled but not on /api/trades
+note W5 order 106 (bellwether) is filled but not on /api/trades
+note W5 order 107 (gazette) is filled but not on /api/trades
+note W5 order 108 (gazette) is filled but not on /api/trades
+note W5 order 109 (catchword) is filled but not on /api/trades
+note W5 order 110 (bellwether) is filled but not on /api/trades
+note W5 order 111 (under-text) is filled but not on /api/trades
+note W5 order 112 (gazette) is filled but not on /api/trades
+note W5 order 113 (gazette) is filled but not on /api/trades
+note W5 order 114 (gazette) is filled but not on /api/trades
+note W5 order 115 (catchword) is filled but not on /api/trades
+note W5 order 116 (bellwether) is filled but not on /api/trades
+note W5 order 117 (gazette) is filled but not on /api/trades
+note W5 order 118 (gazette) is filled but not on /api/trades
+note W5 order 119 (catchword) is filled but not on /api/trades
+note W5 order 120 (bellwether) is filled but not on /api/trades
+note W5 order 121 (bellwether) is filled but not on /api/trades
+note W5 order 122 (town-crier) is filled but not on /api/trades
+note W5 order 123 (bellwether) is filled but not on /api/trades
+note W5 order 124 (catchword) is filled but not on /api/trades
+note W5 order 125 (bellwether) is filled but not on /api/trades
+note W5 order 126 (gazette) is filled but not on /api/trades
+note W5 order 127 (gazette) is filled but not on /api/trades
+note W5 order 128 (gazette) is filled but not on /api/trades
+note W5 order 129 (gazette) is filled but not on /api/trades
+note W5 order 130 (gazette) is filled but not on /api/trades
+note W5 order 131 (catchword) is filled but not on /api/trades
+note W5 order 132 (catchword) is filled but not on /api/trades
+note W5 order 133 (bellwether) is filled but not on /api/trades
+note W5 order 134 (gazette) is filled but not on /api/trades
+note W5 order 135 (gazette) is filled but not on /api/trades
+note W5 order 136 (gazette) is filled but not on /api/trades
+note W5 order 137 (catchword) is filled but not on /api/trades
+note W5 order 138 (catchword) is filled but not on /api/trades
+note W5 order 139 (bellwether) is filled but not on /api/trades
+note W5 order 140 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 141 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 142 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 143 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 144 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 145 (gazette) is filled but not on /api/trades
+note W5 order 146 (gazette) is filled but not on /api/trades
+note W5 order 147 (gazette) is filled but not on /api/trades
+note W5 order 148 (gazette) is filled but not on /api/trades
+note W5 order 149 (gazette) is filled but not on /api/trades
+note W5 order 150 (catchword) is filled but not on /api/trades
+note W5 order 151 (catchword) is filled but not on /api/trades
+note W5 order 152 (bellwether) is filled but not on /api/trades
+note W5 order 153 (catchword) is filled but not on /api/trades
+note W5 order 154 (catchword) is filled but not on /api/trades
+note W5 order 155 (gazette) is filled but not on /api/trades
+note W5 order 156 (gazette) is filled but not on /api/trades
+note W5 order 157 (gazette) is filled but not on /api/trades
+note W5 order 158 (gazette) is filled but not on /api/trades
+note W5 order 159 (bellwether) is filled but not on /api/trades
+note W5 order 160 (catchword) is filled but not on /api/trades
+note W5 order 161 (catchword) is filled but not on /api/trades
+note W5 order 162 (gazette) is filled but not on /api/trades
+note W5 order 163 (gazette) is filled but not on /api/trades
+note W5 order 164 (gazette) is filled but not on /api/trades
+note W5 order 165 (bellwether) is filled but not on /api/trades
+note W5 order 166 (catchword) is filled but not on /api/trades
+note W5 order 167 (catchword) is filled but not on /api/trades
+note W5 order 168 (gazette) is filled but not on /api/trades
+note W5 order 169 (gazette) is filled but not on /api/trades
+note W5 order 170 (gazette) is filled but not on /api/trades
+note W5 order 171 (bellwether) is filled but not on /api/trades
+note W5 order 172 (catchword) is filled but not on /api/trades
+note W5 order 173 (catchword) is filled but not on /api/trades
+note W5 order 174 (bellwether) is filled but not on /api/trades
+note W5 order 175 (gazette) is filled but not on /api/trades
+note W5 order 176 (gazette) is filled but not on /api/trades
+note W5 order 177 (gazette) is filled but not on /api/trades
+note W5 order 178 (gazette) is filled but not on /api/trades
+note W5 order 179 (catchword) is filled but not on /api/trades
+note W5 order 180 (catchword) is filled but not on /api/trades
+note W5 order 181 (bridgework) is filled but not on /api/trades
+note W5 order 182 (gazette) is filled but not on /api/trades
+note W5 order 183 (gazette) is filled but not on /api/trades
+note W5 order 184 (gazette) is filled but not on /api/trades
+note W5 order 185 (gazette) is filled but not on /api/trades
+note W5 order 186 (gazette) is filled but not on /api/trades
+note W5 order 187 (gazette) is filled but not on /api/trades
+note W5 order 188 (gazette) is filled but not on /api/trades
+note W5 order 189 (gazette) is filled but not on /api/trades
+note W5 order 190 (gazette) is filled but not on /api/trades
+note W5 order 191 (gazette) is filled but not on /api/trades
+note W5 order 192 (gazette) is filled but not on /api/trades
+note W5 order 193 (gazette) is filled but not on /api/trades
+note W5 order 194 (gazette) is filled but not on /api/trades
+note W5 order 195 (gazette) is filled but not on /api/trades
+note W5 order 196 (gazette) is filled but not on /api/trades
+note W5 order 197 (gazette) is filled but not on /api/trades
+note W5 order 198 (gazette) is filled but not on /api/trades
+note W5 order 199 (gazette) is filled but not on /api/trades
+note W5 order 200 (gazette) is filled but not on /api/trades
+note W5 order 201 (gazette) is filled but not on /api/trades
+note W5 order 202 (gazette) is filled but not on /api/trades
+note W5 order 203 (gazette) is filled but not on /api/trades
+note W5 order 204 (gazette) is filled but not on /api/trades
+note W5 order 205 (gazette) is filled but not on /api/trades
+note W5 order 206 (gazette) is filled but not on /api/trades
+note W5 order 207 (gazette) is filled but not on /api/trades
+note W5 order 208 (gazette) is filled but not on /api/trades
+note W5 order 209 (gazette) is filled but not on /api/trades
+note W5 order 210 (bellwether) is filled but not on /api/trades
+note W5 order 211 (errata) is filled but not on /api/trades
+note W5 order 212 (errata) is filled but not on /api/trades
+note W5 order 213 (errata) is filled but not on /api/trades
+note W5 order 214 (errata) is filled but not on /api/trades
+note W5 order 215 (verso) is filled but not on /api/trades
+note W5 order 216 (verso) is filled but not on /api/trades
+note W5 order 217 (verso) is filled but not on /api/trades
+note W5 order 218 (verso) is filled but not on /api/trades
+note W5 order 219 (verso) is filled but not on /api/trades
+note W5 order 220 (bridgework) is filled but not on /api/trades
+note W5 order 221 (catchword) is filled but not on /api/trades
+note W5 order 222 (bridgework) is filled but not on /api/trades
+note W5 order 223 (bellwether) is filled but not on /api/trades
+note W5 order 224 (errata) is filled but not on /api/trades
+note W5 order 225 (gazette) is filled but not on /api/trades
+note W5 order 226 (gazette) is filled but not on /api/trades
+note W5 order 227 (gazette) is filled but not on /api/trades
+note W5 order 228 (gazette) is filled but not on /api/trades
+note W5 order 229 (gazette) is filled but not on /api/trades
+note W5 order 230 (gazette) is filled but not on /api/trades
+note W5 order 231 (gazette) is filled but not on /api/trades
+note W5 order 232 (gazette) is filled but not on /api/trades
+note W5 order 233 (verso) is filled but not on /api/trades
+note W5 order 234 (verso) is filled but not on /api/trades
+note W5 order 235 (verso) is filled but not on /api/trades
+note W5 order 236 (verso) is filled but not on /api/trades
+note W5 order 237 (catchword) is filled but not on /api/trades
+note W5 order 238 (catchword) is filled but not on /api/trades
+note W5 order 239 (catchword) is filled but not on /api/trades
+note W5 order 240 (under-text) is filled but not on /api/trades
+note W5 order 241 (under-text) is filled but not on /api/trades
+note W5 order 242 (under-text) is filled but not on /api/trades
+note W5 order 243 (under-text) is filled but not on /api/trades
+note W5 order 244 (bellwether) is filled but not on /api/trades
+note W5 order 245 (catchword) is filled but not on /api/trades
+note W5 order 246 (gazette) is filled but not on /api/trades
+note W5 order 247 (gazette) is filled but not on /api/trades
+note W5 order 248 (gazette) is filled but not on /api/trades
+note W5 order 249 (gazette) is filled but not on /api/trades
+note W5 order 250 (gazette) is filled but not on /api/trades
+note W5 order 251 (gazette) is filled but not on /api/trades
+note W5 order 252 (gazette) is filled but not on /api/trades
+note W5 order 253 (gazette) is filled but not on /api/trades
+note W5 order 254 (verso) is filled but not on /api/trades
+note W5 order 255 (verso) is filled but not on /api/trades
+note W5 order 256 (under-text) is filled but not on /api/trades
+note W5 order 257 (under-text) is filled but not on /api/trades
+note W5 order 258 (under-text) is filled but not on /api/trades
+note W5 order 260 (bellwether) is filled but not on /api/trades
+note W5 order 261 (catchword) is filled but not on /api/trades
+note W5 order 262 (catchword) is filled but not on /api/trades
+note W5 order 263 (gazette) is filled but not on /api/trades
+note W5 order 264 (gazette) is filled but not on /api/trades
+note W5 order 265 (gazette) is filled but not on /api/trades
+note W5 order 266 (gazette) is filled but not on /api/trades
+note W5 order 267 (gazette) is filled but not on /api/trades
+note W5 order 268 (gazette) is filled but not on /api/trades
+note W5 order 269 (verso) is filled but not on /api/trades
+note W5 order 270 (verso) is filled but not on /api/trades
+note W5 order 271 (under-text) is filled but not on /api/trades
+note W5 order 272 (under-text) is filled but not on /api/trades
+note W5 order 273 (under-text) is filled but not on /api/trades
+note W5 order 274 (under-text) is filled but not on /api/trades
+note W5 order 275 (bellwether) is filled but not on /api/trades
+note W5 order 276 (bridgework) is filled but not on /api/trades
+note W5 order 277 (errata) is filled but not on /api/trades
+note W5 order 278 (catchword) is filled but not on /api/trades
+note W5 order 279 (gazette) is filled but not on /api/trades
+note W5 order 280 (gazette) is filled but not on /api/trades
+note W5 order 281 (gazette) is filled but not on /api/trades
+note W5 order 282 (gazette) is filled but not on /api/trades
+note W5 order 283 (gazette) is filled but not on /api/trades
+note W5 order 284 (under-text) is filled but not on /api/trades
+note W5 order 285 (under-text) is filled but not on /api/trades
+note W5 order 286 (under-text) is filled but not on /api/trades
+note W5 order 287 (under-text) is filled but not on /api/trades
+note W5 order 288 (bellwether) is filled but not on /api/trades
+note W5 order 289 (verso) is filled but not on /api/trades
+note W5 order 290 (verso) is filled but not on /api/trades
+note W5 order 291 (verso) is filled but not on /api/trades
+note W5 order 292 (bridgework) is filled but not on /api/trades
+note W5 order 293 (catchword) is filled but not on /api/trades
+note W5 order 294 (catchword) is filled but not on /api/trades
+note W5 order 295 (bellwether) is filled but not on /api/trades
+note W5 order 296 (gazette) is filled but not on /api/trades
+note W5 order 297 (gazette) is filled but not on /api/trades
+note W5 order 298 (gazette) is filled but not on /api/trades
+note W5 order 299 (gazette) is filled but not on /api/trades
+note W5 order 300 (gazette) is filled but not on /api/trades
+note W5 order 301 (gazette) is filled but not on /api/trades
+note W5 order 302 (verso) is filled but not on /api/trades
+note W5 order 303 (verso) is filled but not on /api/trades
+note W5 order 304 (under-text) is filled but not on /api/trades
+note W5 order 305 (under-text) is filled but not on /api/trades
+note W5 order 306 (bridgework) is filled but not on /api/trades
+note W5 order 307 (catchword) is filled but not on /api/trades
+note W5 order 308 (bellwether) is filled but not on /api/trades
+note W5 order 309 (gazette) is filled but not on /api/trades
+note W5 order 310 (gazette) is filled but not on /api/trades
+note W5 order 311 (verso) is filled but not on /api/trades
+note W5 order 312 (verso) is filled but not on /api/trades
+note W5 order 313 (catchword) is filled but not on /api/trades
+note W5 order 314 (bridgework) is filled but not on /api/trades
+note W5 order 315 (bellwether) is filled but not on /api/trades
+note W5 order 316 (verso) is filled but not on /api/trades
+note W5 order 317 (verso) is filled but not on /api/trades
+note W5 order 318 (bellwether) is filled but not on /api/trades
+note W5 order 319 (bellwether) is filled but not on /api/trades
+note W5 order 320 (bellwether) is filled but not on /api/trades
+note W5 order 321 (bellwether) is filled but not on /api/trades
+note W5 order 322 (bellwether) is filled but not on /api/trades
+note W5 order 323 (bellwether) is filled but not on /api/trades
+note W5 order 324 (town-crier) is filled but not on /api/trades
+note W5 order 325 (town-crier) is filled but not on /api/trades
+note W5 order 326 (bellwether) is filled but not on /api/trades
+note W5 order 327 (bellwether) is filled but not on /api/trades
+note W5 order 328 (bellwether) is filled but not on /api/trades
+note W5 order 329 (town-crier) is filled but not on /api/trades
+note W5 order 330 (bellwether) is filled but not on /api/trades
+note W5 order 331 (bellwether) is filled but not on /api/trades
+note W5 order 332 (bellwether) is filled but not on /api/trades
+note W5 order 333 (bellwether) is filled but not on /api/trades
+note W5 order 334 (bellwether) is filled but not on /api/trades
+note W5 order 335 (bellwether) is filled but not on /api/trades
+note W5 order 336 (town-crier) is filled but not on /api/trades
+note W5 order 337 (town-crier) is filled but not on /api/trades
+note W5 order 338 (town-crier) is filled but not on /api/trades
+note W5 order 339 (head-of-experiments) is filled but not on /api/trades
+note W5 order 340 (head-of-experiments) is filled but not on /api/trades
+note W5 order 341 (head-of-experiments) is filled but not on /api/trades
+note W5 order 342 (head-of-experiments) is filled but not on /api/trades
+note W5 order 343 (head-of-experiments) is filled but not on /api/trades
+note W5 order 344 (head-of-experiments) is filled but not on /api/trades
+note W5 order 345 (head-of-experiments) is filled but not on /api/trades
+note W5 order 346 (head-of-experiments) is filled but not on /api/trades
+note W5 order 347 (head-of-experiments) is filled but not on /api/trades
+note W5 order 348 (head-of-experiments) is filled but not on /api/trades
+note W5 order 349 (head-of-experiments) is filled but not on /api/trades
+note W5 order 350 (Jaybob) is filled but not on /api/trades
+note W5 order 351 (Jaybob) is filled but not on /api/trades
+note W5 order 352 (Jaybob) is filled but not on /api/trades
+note W5 order 353 (Jaybob) is filled but not on /api/trades
+note W5 order 354 (Jaybob) is filled but not on /api/trades
+note W5 order 355 (noble_new_511) is filled but not on /api/trades
+note W5 order 356 (cursor-grok) is filled but not on /api/trades
+note W5 order 357 (cursor-grok) is filled but not on /api/trades
+note W5 order 358 (cursor-grok) is filled but not on /api/trades
+note W5 order 359 (cursor-grok) is filled but not on /api/trades
+note W5 order 360 (cursor-grok) is filled but not on /api/trades
+note W5 order 361 (cursor-grok) is filled but not on /api/trades
+note W5 order 362 (cursor-grok) is filled but not on /api/trades
+note W5 order 363 (bridgework) is filled but not on /api/trades
+note W5 order 364 (catchword) is filled but not on /api/trades
+note W5 order 365 (catchword) is filled but not on /api/trades
+note W5 order 366 (catchword) is filled but not on /api/trades
+note W5 order 367 (catchword) is filled but not on /api/trades
+note W5 order 368 (errata) is filled but not on /api/trades
+note W5 order 369 (errata) is filled but not on /api/trades
+note W5 order 370 (errata) is filled but not on /api/trades
+note W5 order 371 (gazette) is filled but not on /api/trades
+note W5 order 372 (gazette) is filled but not on /api/trades
+note W5 order 373 (gazette) is filled but not on /api/trades
+note W5 order 374 (gazette) is filled but not on /api/trades
+note W5 order 375 (gazette) is filled but not on /api/trades
+note W5 order 376 (gazette) is filled but not on /api/trades
+note W5 order 377 (gazette) is filled but not on /api/trades
+note W5 order 378 (gazette) is filled but not on /api/trades
+note W5 order 379 (gazette) is filled but not on /api/trades
+note W5 order 380 (gazette) is filled but not on /api/trades
+note W5 order 381 (gazette) is filled but not on /api/trades
+note W5 order 382 (gazette) is filled but not on /api/trades
+note W5 order 383 (gazette) is filled but not on /api/trades
+note W5 order 384 (gazette) is filled but not on /api/trades
+note W5 order 385 (gazette) is filled but not on /api/trades
+note W5 order 386 (gazette) is filled but not on /api/trades
+note W5 order 387 (verso) is filled but not on /api/trades
+note W5 order 388 (verso) is filled but not on /api/trades
+note W5 order 389 (verso) is filled but not on /api/trades
+note W5 order 390 (verso) is filled but not on /api/trades
+note W5 order 391 (verso) is filled but not on /api/trades
+note W5 order 392 (verso) is filled but not on /api/trades
+note W5 order 393 (verso) is filled but not on /api/trades
+note W5 order 394 (verso) is filled but not on /api/trades
+note W5 order 395 (verso) is filled but not on /api/trades
+note W5 order 396 (under-text) is filled but not on /api/trades
+note W5 order 397 (under-text) is filled but not on /api/trades
+note W5 order 398 (under-text) is filled but not on /api/trades
+note W5 order 399 (under-text) is filled but not on /api/trades
+note W5 order 400 (catchword) is filled but not on /api/trades
+note W5 order 401 (catchword) is filled but not on /api/trades
+note W5 order 402 (bridgework) is filled but not on /api/trades
+note W5 order 403 (cursor-grok) is filled but not on /api/trades
+note W5 order 404 (cursor-grok) is filled but not on /api/trades
+note W5 order 405 (verso) is filled but not on /api/trades
+note W5 order 406 (verso) is filled but not on /api/trades
+note W5 order 407 (under-text) is filled but not on /api/trades
+note W5 order 408 (under-text) is filled but not on /api/trades
+note W5 order 409 (catchword) is filled but not on /api/trades
+note W5 order 410 (catchword) is filled but not on /api/trades
+note W5 order 411 (catchword) is filled but not on /api/trades
+note W5 order 412 (catchword) is filled but not on /api/trades
+note W5 order 413 (catchword) is filled but not on /api/trades
+note W5 order 414 (cursor-grok) is filled but not on /api/trades
+note W5 order 415 (cursor-grok) is filled but not on /api/trades
+note W5 order 416 (catchword) is filled but not on /api/trades
+note W5 order 417 (catchword) is filled but not on /api/trades
+note W5 order 418 (gazette) is filled but not on /api/trades
+note W5 order 419 (gazette) is filled but not on /api/trades
+note W5 order 420 (gazette) is filled but not on /api/trades
+note W5 order 421 (gazette) is filled but not on /api/trades
+note W5 order 422 (gazette) is filled but not on /api/trades
+note W5 order 423 (gazette) is filled but not on /api/trades
+note W5 order 424 (gazette) is filled but not on /api/trades
+note W5 order 425 (gazette) is filled but not on /api/trades
+note W5 order 426 (gazette) is filled but not on /api/trades
+note W5 order 427 (gazette) is filled but not on /api/trades
+note W5 order 428 (gazette) is filled but not on /api/trades
+note W5 order 429 (gazette) is filled but not on /api/trades
+note W5 order 430 (bridgework) is filled but not on /api/trades
+note W5 order 431 (catchword) is filled but not on /api/trades
+note W5 order 432 (catchword) is filled but not on /api/trades
+note W5 order 433 (errata) is filled but not on /api/trades
+note W5 order 434 (cursor-grok) is filled but not on /api/trades
+note W5 order 435 (verso) is filled but not on /api/trades
+note W5 order 436 (verso) is filled but not on /api/trades
+note W5 order 437 (verso) is filled but not on /api/trades
+note W5 order 438 (verso) is filled but not on /api/trades
+note W5 order 439 (verso) is filled but not on /api/trades
+note W5 order 440 (verso) is filled but not on /api/trades
+note W5 order 441 (catchword) is filled but not on /api/trades
+note W5 order 442 (catchword) is filled but not on /api/trades
+note W5 order 443 (under-text) is filled but not on /api/trades
+note W5 order 444 (under-text) is filled but not on /api/trades
+note W5 order 445 (catchword) is filled but not on /api/trades
+note W5 order 446 (catchword) is filled but not on /api/trades
+note W5 order 447 (catchword) is filled but not on /api/trades
+note W5 order 448 (gazette) is filled but not on /api/trades
+note W5 order 449 (gazette) is filled but not on /api/trades
+note W5 order 450 (gazette) is filled but not on /api/trades
+note W5 order 451 (gazette) is filled but not on /api/trades
+note W5 order 452 (gazette) is filled but not on /api/trades
+note W5 order 453 (gazette) is filled but not on /api/trades
+note W5 order 454 (gazette) is filled but not on /api/trades
+note W5 order 455 (gazette) is filled but not on /api/trades
+note W5 order 456 (gazette) is filled but not on /api/trades
+note W5 order 457 (gazette) is filled but not on /api/trades
+note W5 order 458 (errata) is filled but not on /api/trades
+note W5 order 459 (bridgework) is filled but not on /api/trades
+note W5 order 460 (catchword) is filled but not on /api/trades
+note W5 order 461 (catchword) is filled but not on /api/trades
+note W5 order 462 (catchword) is filled but not on /api/trades
+note W5 order 463 (catchword) is filled but not on /api/trades
+note W5 order 464 (under-text) is filled but not on /api/trades
+note W5 order 465 (under-text) is filled but not on /api/trades
+note W5 order 466 (bridgework) is filled but not on /api/trades
+note W5 order 467 (gazette) is filled but not on /api/trades
+note W5 order 468 (gazette) is filled but not on /api/trades
+note W5 order 469 (gazette) is filled but not on /api/trades
+note W5 order 470 (gazette) is filled but not on /api/trades
+note W5 order 471 (gazette) is filled but not on /api/trades
+note W5 order 472 (gazette) is filled but not on /api/trades
+note W5 order 473 (cursor-grok) is filled but not on /api/trades
+note W5 order 474 (cursor-grok) is filled but not on /api/trades
+note W5 order 475 (cursor-grok) is filled but not on /api/trades
+note W5 order 476 (catchword) is filled but not on /api/trades
+note W5 order 477 (catchword) is filled but not on /api/trades
+note W5 order 478 (catchword) is filled but not on /api/trades
+note W5 order 479 (catchword) is filled but not on /api/trades
+note W5 order 480 (catchword) is filled but not on /api/trades
+note W5 order 481 (catchword) is filled but not on /api/trades
+note W5 order 482 (verso) is filled but not on /api/trades
+note W5 order 483 (verso) is filled but not on /api/trades
+note W5 order 484 (verso) is filled but not on /api/trades
+note W5 order 485 (verso) is filled but not on /api/trades
+note W5 order 486 (under-text) is filled but not on /api/trades
+note W5 order 487 (under-text) is filled but not on /api/trades
+note W5 order 488 (under-text) is filled but not on /api/trades
+note W5 order 489 (bridgework) is filled but not on /api/trades
+note W5 order 490 (gazette) is filled but not on /api/trades
+note W5 order 491 (gazette) is filled but not on /api/trades
+note W5 order 492 (gazette) is filled but not on /api/trades
+note W5 order 493 (gazette) is filled but not on /api/trades
+note W5 order 494 (gazette) is filled but not on /api/trades
+note W5 order 495 (gazette) is filled but not on /api/trades
+note W5 order 496 (gazette) is filled but not on /api/trades
+note W5 order 497 (head-of-experiments) is filled but not on /api/trades
+note W5 order 498 (head-of-experiments) is filled but not on /api/trades
+note W5 order 499 (head-of-experiments) is filled but not on /api/trades
+note W5 order 500 (cursor-grok) is filled but not on /api/trades
+note W5 order 501 (cursor-grok) is filled but not on /api/trades
+note W5 order 502 (cursor-grok) is filled but not on /api/trades
+note W5 order 503 (cursor-grok) is filled but not on /api/trades
+note W5 order 504 (cursor-grok) is filled but not on /api/trades
+note W5 order 505 (cursor-grok) is filled but not on /api/trades
+note W5 order 506 (catchword) is filled but not on /api/trades
+note W5 order 507 (catchword) is filled but not on /api/trades
+note W5 order 508 (catchword) is filled but not on /api/trades
+note W5 order 509 (catchword) is filled but not on /api/trades
+note W5 order 510 (catchword) is filled but not on /api/trades
+note W5 order 511 (catchword) is filled but not on /api/trades
+note W5 order 512 (catchword) is filled but not on /api/trades
+note W5 order 513 (catchword) is filled but not on /api/trades
+note W5 order 514 (verso) is filled but not on /api/trades
+note W5 order 515 (verso) is filled but not on /api/trades
+note W5 order 516 (verso) is filled but not on /api/trades
+note W5 order 517 (verso) is filled but not on /api/trades
+note W5 order 518 (verso) is filled but not on /api/trades
+note W5 order 519 (verso) is filled but not on /api/trades
+note W5 order 520 (verso) is filled but not on /api/trades
+note W5 order 521 (verso) is filled but not on /api/trades
+note W5 order 522 (verso) is filled but not on /api/trades
+note W5 order 523 (head-of-experiments) is filled but not on /api/trades
+note W5 order 524 (head-of-experiments) is filled but not on /api/trades
+note W5 order 525 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 526 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 527 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 528 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 529 (atlas-ocelot) is filled but not on /api/trades
+note W5 order 530 (bridgework) is filled but not on /api/trades
+note W5 order 531 (gazette) is filled but not on /api/trades
+note W5 order 532 (gazette) is filled but not on /api/trades
+note W5 order 533 (gazette) is filled but not on /api/trades
+note W5 order 534 (gazette) is filled but not on /api/trades
+note W5 order 535 (gazette) is filled but not on /api/trades
+note W5 order 536 (gazette) is filled but not on /api/trades
+note W5 order 537 (gazette) is filled but not on /api/trades
+note W5 order 538 (gazette) is filled but not on /api/trades
+note W5 order 539 (gazette) is filled but not on /api/trades
+note W5 order 540 (head-of-experiments) is filled but not on /api/trades
+note W5 order 541 (cursor-grok) is filled but not on /api/trades
+note W5 order 542 (cursor-grok) is filled but not on /api/trades
+note W5 order 543 (cursor-grok) is filled but not on /api/trades
+note W5 order 544 (cursor-grok) is filled but not on /api/trades
+note W5 order 545 (cursor-grok) is filled but not on /api/trades
+note W5 order 546 (catchword) is filled but not on /api/trades
+note W5 order 547 (catchword) is filled but not on /api/trades
+note W5 order 548 (catchword) is filled but not on /api/trades
+note W5 order 549 (catchword) is filled but not on /api/trades
+note W5 order 550 (catchword) is filled but not on /api/trades
+note W5 order 551 (catchword) is filled but not on /api/trades
+note W5 order 552 (catchword) is filled but not on /api/trades
+note W5 order 553 (catchword) is filled but not on /api/trades
+FAIL W4 order 122: instant fill priced 60097 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 181: instant fill priced 7341 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 191: instant fill priced 8351 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 192: instant fill priced 8353 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 329: instant fill priced 13483 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 446: instant fill priced 7110 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 448: instant fill priced 8319 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 449: instant fill priced 8569 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 452: instant fill priced 8576 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 489: instant fill priced 37617 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 529: instant fill priced 27351 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 535: instant fill priced 39697 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 578: instant fill priced 39613 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 584: instant fill priced 39616 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 588: instant fill priced 39623 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+FAIL W4 order 593: instant fill priced 68701 s before the order (the US exchange; rule: filled the moment it arrived; the US market was closed, so at the stock's last close)
+16 FAIL
